@@ -48,3 +48,9 @@ print(xx <= yy)  # Output: False
 print(xx >= yy)  # Output: True
 print(xx == yy)  # Output: False
 print(xx != yy)  # Output: True
+
+
+#User Input
+
+name = input('who are you?')
+print('welcome', name)
